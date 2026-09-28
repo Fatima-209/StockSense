@@ -45,19 +45,6 @@ Missing values occur on non-trading days (weekends, holidays, exchange suspensio
 | **Fatima Alaiwi** | Unsupervised learning | Clustering algorithm selection, identifying stock and market-regime groups, volatility structure analysis, cluster evaluation and interpretation |
 
 ---
-
-## Repository Structure
-
-```
-├── notebook/
-│   └── stock_risk_price_prediction.ipynb   # Full pipeline (preprocessing, supervised, unsupervised)
-├── report/
-│   └── Project_Report.docx                 # Final project report
-├── data/                                   # Dataset (or link to source if large)
-├── requirements.txt
-└── README.md
-```
-
 ## Pipeline Stages
 
 1. **Data Preparation:** cleaning, missing-value handling, formatting
